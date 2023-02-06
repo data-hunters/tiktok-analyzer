@@ -1,6 +1,6 @@
 from urllib.error import HTTPError
 
-from tiktokapipy.async_api import TikTokAPI
+from tiktokapipy.api import TikTokAPI
 import urllib.request as req
 
 
