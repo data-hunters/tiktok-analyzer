@@ -1,0 +1,2 @@
+whisper-openai==1.0.0
+tiktokapipy==0.1.11
