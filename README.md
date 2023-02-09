@@ -22,27 +22,33 @@ Displaying help:
 ```
 python run.py --help
 ```
+<br />
 
 Downloading 10 latest videos (with soundtrack) by hashtag `ukraine` to `tiktok_videos` directory:
 ```
 python run.py --hashtag ukraine --output-path tiktok_videos --max-videos 10
 ```
+<br />
 
 Downloading 10 latest videos (with soundtrack) of `test123` user to `tiktok_videos` directory:
 ```
 python run.py --user test123 --output-path tiktok_videos --max-videos 10
 ```
+<br />
 
 Converting speech to text based on `mp3` files located in `tiktok_videos`, using OpenAI Whisper `medium` model and saving the output to `tiktok_transcription` directory:
 ```
 python run.py --transcribe --input-path tiktok_videos --output-path tiktok_transcription --model medium
 ```
+<br />
 
 Running all of the above steps with single command:
 ```
 python run.py --hashtag ukraine --user test123 --max-videos 10 --transcribe --input-path tiktok_videos --output-path tiktok_videos --model medium
 ```
+  
+<br />
+<br />  
+<br />
 
-<br />
-<br />
 [![DataHunters](http://datahunters.ai/assets/images/logo_full_small.png)](http://datahunters.ai)
