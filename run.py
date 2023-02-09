@@ -4,7 +4,7 @@ from dataclasses import dataclass
 
 from ttanalyzer.analyzer import VoiceAnalyzer
 from ttanalyzer.reader import FileReader
-from ttanalyzer.scraper import TikTokScraper
+from ttanalyzer.scrapper import TikTokScraper
 from ttanalyzer.writer import JSONFileWriter
 
 
