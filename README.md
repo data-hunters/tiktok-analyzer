@@ -1,5 +1,5 @@
 # TikTok Analyzer
-It was created to show how you can crawl videos from TikTok and convert speech (coming from video) to text.
+This project was created to show how you can crawl videos from TikTok and convert speech (coming from video) to text.
 
 Used libraries:
 * [https://github.com/Russell-Newton/TikTokPy](TikTokPy)
@@ -49,6 +49,5 @@ python run.py --hashtag ukraine --user test123 --max-videos 10 --transcribe --in
   
 <br />
 <br />  
-<br />
 
 [![DataHunters](http://datahunters.ai/assets/images/logo_full_small.png)](http://datahunters.ai)
