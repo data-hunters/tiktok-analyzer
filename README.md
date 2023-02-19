@@ -2,8 +2,8 @@
 This project was created to show how you can crawl videos from TikTok and convert speech (coming from video) to text.
 
 Used libraries:
-* [https://github.com/Russell-Newton/TikTokPy](TikTokPy)
-* [https://github.com/openai/whisper](Whisper)
+* https://github.com/Russell-Newton/TikTokPy
+* https://github.com/openai/whisper
 
 You need to clone the repository or download zipped project to run it.
 ```
